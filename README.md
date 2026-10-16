@@ -6,10 +6,8 @@
 
 ```bash
 # 最常用的一条：自动探测哪个镜像站对这台机器最快，然后换过去
-curl -fsSL https://raw.githubusercontent.com/HWMAT4/mirror-switch/main/scripts/mirror-switch.sh | sudo bash -s -- --mirror auto --yes
+curl -fsSL https://raw.githubusercontent.com/HWMAT4-R6/mirror-switch/main/scripts/mirror-switch.sh | sudo bash -s -- --mirror auto --yes
 ```
-
-（上面是示意 URL，发布后替换为你仓库的真实地址。）
 
 ## 它解决什么问题
 
